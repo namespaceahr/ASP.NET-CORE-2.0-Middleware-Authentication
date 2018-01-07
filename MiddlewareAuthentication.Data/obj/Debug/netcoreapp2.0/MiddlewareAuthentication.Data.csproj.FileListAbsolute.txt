@@ -1,0 +1,9 @@
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Data\bin\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.deps.json
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Data\bin\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.dll
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Data\bin\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.pdb
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Data\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.csproj.CoreCompileInputs.cache
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Data\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.AssemblyInfoInputs.cache
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Data\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.AssemblyInfo.cs
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Data\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.dll
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Data\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.pdb
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Data\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.csprojResolveAssemblyReference.cache

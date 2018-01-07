@@ -1,0 +1,9 @@
+﻿@model MiddlewareAuthentication.Data.User
+@{
+    <br/><br/><form asp-antiforgery="true" asp-controller="Account" asp-action="Login">
+        User name: <input name="UserName" type="text" />
+        Password: <input name="UserPassword" type="password" />
+        <input name="submit" value="Login" type="submit" />
+        <input type="hidden" name="returnUrl" value="@Model" />
+    </form>
+}

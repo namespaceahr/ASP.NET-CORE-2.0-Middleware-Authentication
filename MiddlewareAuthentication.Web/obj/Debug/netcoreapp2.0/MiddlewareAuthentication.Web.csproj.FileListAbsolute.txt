@@ -1,0 +1,13 @@
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\bin\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.deps.json
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\bin\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.runtimeconfig.json
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\bin\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.runtimeconfig.dev.json
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\bin\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.dll
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.csprojResolveAssemblyReference.cache
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.csproj.CoreCompileInputs.cache
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.AssemblyInfoInputs.cache
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.AssemblyInfo.cs
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\bin\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.pdb
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.dll
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\obj\Debug\netcoreapp2.0\MiddlewareAuthentication.Web.pdb
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\bin\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.dll
+C:\Users\namespaceahr\source\repos\MiddlewareAuthentication\MiddlewareAuthentication.Web\bin\Debug\netcoreapp2.0\MiddlewareAuthentication.Data.pdb
